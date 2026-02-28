@@ -1,12 +1,12 @@
-__⚽ AI Football Scouting & Team Optimization Dashboard__
+__AI Football Scouting & Team Optimization Dashboard__
 
 An AI-powered football scouting and team optimization system built using Data Analytics, Machine Learning, and Streamlit.
 The project helps analyze players, predict future performance, identify playing archetypes, recommend similar players, and build optimized teams.
 
 -------------------------------------------------------------------------------------------
-__🚀 Key Features :__
+__Key Features :__
 
-__🧑 Player Analysis__
+__Player Analysis__
 
 -> Detailed player profile with age, position, overall rating, potential, and growth
 
@@ -18,7 +18,7 @@ __🧑 Player Analysis__
 
 ----------------
 
-__🔮 Machine Learning – Future Overall Prediction__
+__Machine Learning – Future Overall Prediction__
 
 -> Supervised ML (Random Forest Regressor)
 
@@ -32,7 +32,7 @@ __🔮 Machine Learning – Future Overall Prediction__
 
 
 
-__🧬 Player Archetype Detection__
+__Player Archetype Detection__
 
 -> Unsupervised ML (KMeans Clustering)
 
@@ -52,7 +52,7 @@ __🧬 Player Archetype Detection__
 
 ---------------------------
 
-__🔁 Similar Player Recommendation__
+__Similar Player Recommendation__
 
 -> K-Nearest Neighbors (KNN)
 
@@ -62,14 +62,14 @@ __🔁 Similar Player Recommendation__
 
 -------------------------------
 
-__🟩 Pitch Visualization__
+__Pitch Visualization__
 
 -> Visual representation of player positions on a football pitch
 
 -> Accurate positional mapping for team formation
 
 --------------------------------
-__🏆 Team Builder__
+__Team Builder__
 
 -> Build a complete playing XI
 
@@ -80,7 +80,7 @@ __🏆 Team Builder__
 -> Ensures one player per position with squad balance
 
 ------------------------------------
-__🧠 Machine Learning Techniques Used:__
+__Machine Learning Techniques Used:__
 
 Feature_________________________________ML_________________________Type	Algorithm
 
@@ -91,7 +91,7 @@ Player Archetype Clustering___________Unsupervised Learning_____KMeans
 Similar Player Recommendation_______Instance-based Learning___KNN
 
 -----------------------------------------
-__🛠️ Tech Stack__
+__Tech Stack__
 -> Python
 
 -> Streamlit – interactive dashboard
@@ -139,24 +139,24 @@ __AI-Football-Scouting-Dashboard/__
 ├── SIMILAR_PLAYER_RECOMMENDATION.ipynb
 
 -----------------------------
-__▶️ How to Run the Project Locally__
+__How to Run the Project Locally__
 
-1️⃣ Clone the repository
+1️. Clone the repository
 
-git clone https://github.com/DoopamHarshavardhan/AI-Football-Scouting-Dashboard.git
+  git clone https://github.com/DoopamHarshavardhan/AI-Football-Scouting-Dashboard.git
 
-cd AI-Football-Scouting-Dashboard
+  cd AI-Football-Scouting-Dashboard
 
-2️⃣ Install dependencies
+2️. Install dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Run the Streamlit app
+3️. Run the Streamlit app
 
 streamlit run app.py
 
 ------------------------------
-__📊 Machine Learning Workflow__
+__Machine Learning Workflow__
 
 -> Data preprocessing and feature engineering (Jupyter Notebook)
 
@@ -168,7 +168,7 @@ __📊 Machine Learning Workflow__
 
 -----------------------------------
 
-__🎯 Project Highlights__
+__Project Highlights__
 
 -> Combines data analytics + multiple ML paradigms
 
@@ -180,7 +180,7 @@ __🎯 Project Highlights__
 
 -------------------------
 
-__👤 Author__
+__Author__
 
 Doopam Harshavardhan
 
@@ -189,6 +189,6 @@ B.Tech (4th Year)
 Aspiring Data Scientist / ML Engineer
 
 ----------
-__📜 License__
+__License__
 
 This project is for educational and learning purposes.
