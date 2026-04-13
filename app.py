@@ -336,13 +336,13 @@ Use markdown-style bullets (start each item with "-"). Be specific. Reference po
 # PAGE CONFIG
 
 st.set_page_config(
-    page_title="AI Football Scouting Dashboard",
+    page_title="AI-Based Football Scouting ",
     page_icon="⚽",
     layout="wide"
 )
 
 st.markdown(
-    "<h2 style='margin-top:0;'>⚽ AI Football Scouting & Talent Analysis</h2>",
+    "<h2 style='margin-top:0;'>⚽ AI-Based Football Player Scouting & Team Optimization System</h2>",
     unsafe_allow_html=True
 )
 
